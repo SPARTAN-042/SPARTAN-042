@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Java based projects
 - 🌱 I’m currently learning Java and its technologies
 - 👯 I’m looking to learn and collaborate on small projects & anything that allows me to learn
-- 📫 How to reach me: clintlegrange@gmail.com
+- 📫 How to reach me: sentinal042@gmail.com
 
 <br>
 
